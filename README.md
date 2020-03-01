@@ -1,4 +1,4 @@
-# ECMAScript 6 가이드
+# TypeScript 6 가이드
 
 # TypeScript-Handbook 한글 문서
 
